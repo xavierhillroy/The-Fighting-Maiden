@@ -1,13 +1,6 @@
 The Fighting Maiden
 
-NOTE: if you are in windows then you might be able to run the program if you create a
-new project from VS with the link from your bitbucket and have the SFML folder I included in your c: drive,
-it may RUN.
-Link to repo:
-https://repo.csd.uwo.ca/scm/compsci3307_f2022/group41.git
 
-this is the link to the video I watched to set up SFML on windows using Clion:
-https://www.youtube.com/watch?v=EXY7MNqKHTc
 
 Dodge the hazards, and defeat the enemy!
 Receive assistance from NPCs as you try to reach the ultimate goal: the blue warp!
