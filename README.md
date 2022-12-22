@@ -1,6 +1,6 @@
 The Fighting Maiden
 
-
+Authors: Xavier Hill Roy, Bryce Chevallier, Matthew Korkola, Samuel Near, Yakup Tezcan, 
 
 Dodge the hazards, and defeat the enemy!
 Receive assistance from NPCs as you try to reach the ultimate goal: the blue warp!
