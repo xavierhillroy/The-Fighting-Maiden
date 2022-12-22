@@ -26,11 +26,3 @@ We could not create a makefile because we could not properly link SFML.
 
 To run the test cases, run them individually.
 To run a single test case, comment out all other main functions (from both main.cpp and the other test cases).
-
-Considering that we could not get the makefile to work, this approach is the only way to run the game and the test cases.
-We did not anticipate that creating a makefile with SFML would be so problematic.
-We have spoken with Professor Katchabaw about this problem. He said that we do not have to make a makefile since
-they are very troubling with SFML.
-
-Nonetheless, we will have a chance to show off our game in action when we demo it with our TA during
-the acceptance test meeting.
