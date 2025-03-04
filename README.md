@@ -22,7 +22,7 @@ How to run the game:
 - run main.cpp
 - Note: all the test cases must be commented out. They are commented out all by default on submission of the project.
 
-We could not create a makefile because we could not properly link SFML.
+
 
 To run the test cases, run them individually.
 To run a single test case, comment out all other main functions (from both main.cpp and the other test cases).
