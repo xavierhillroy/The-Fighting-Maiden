@@ -41,6 +41,7 @@ Survive hazards, battle enemies, and reach the blue warp portal to win!
 - Raspberry Pi (tested on Raspberry Pi 3/4)
 - C++ compiler (g++)
 - Standard C++ libraries
+- SFML 2.x (Simple and Fast Multimedia Library)
 
 ### Building and Running
 
